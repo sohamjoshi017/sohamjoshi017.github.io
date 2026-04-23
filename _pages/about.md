@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Member of Technical Staff at Oracle, working in OCI AI Vision Services. I hold an integrated master’s (B. Tech + M. Tech) degree in Computer Science, specializing in Artificial Intelligence and Machine Learning, from the International Institute of Information Technology, Bangalore. My research interests lie in computer vision, with a focus on 3D vision models for scene understanding. Additionally, I also stay updated on large multimodal models and the latest developments in the generative AI paradigm. In my free time, I like to play and watch football (and quite lately Formula One), listening to audio/video podcasts on health, fitness, etc. 
+I am a Senior Applied Scientist at Oracle, working in Oracle Health and AI. I hold an integrated master’s (B. Tech + M. Tech) degree in Computer Science, specializing in Artificial Intelligence and Machine Learning, from the International Institute of Information Technology Bangalore. My research interests lie in computer vision, with a focus on 3D vision models for scene understanding. Additionally, I also stay updated on large multimodal models and the latest developments in the generative AI paradigm. In my free time, I like to play and watch football (and quite lately Formula One), listening to audio/video podcasts on health, fitness, etc. 
 
 
 

@@ -20,19 +20,39 @@ Education
 Work experience
 ======
 # Oracle  
-**Bangalore, IN**  
-**Member of Technical Staff (Applied Science), OCI AI Vision Services**  
-*Jul. 23 - Present*
+**Bangalore Urban, Karnataka, India**  
+**Senior Applied Scientist**  
+*Oct 2025 - Present*
 
 # Oracle  
-**Bangalore, IN**  
-**Project Intern, OCI AI Vision Services**  
-*May 22 - Jul. 22*
+**Bengaluru, Karnataka, India**  
+**Applied Scientist**  
+*Apr 2025 - Sept 2025*
 
-# Ericsson Research  
-**Bangalore, IN**  
-**Research Intern**  
-*May 21 - Aug. 21*
+# Oracle  
+**Bengaluru, Karnataka, India**  
+**Member of Technical Staff**  
+*Jul 2023 - Apr 2025*
+
+# Indian Institute of Science (IISc)  
+**Bengaluru, Karnataka, India**  
+**Research Collaborator**  
+*Dec 2022 - Jul 2023*
+
+# Oracle  
+**Bengaluru, Karnataka, India**  
+**Project Intern**  
+*May 2022 - Jul 2022*
+
+# Ericsson  
+**Bangalore Urban, Karnataka, India (Remote)**  
+**Summer Research Intern**  
+*May 2021 - Aug 2021*
+
+# Innovision  
+**Thane, Maharashtra, India (On-site)**  
+**Software Engineering Intern**  
+*Jun 2019*
 
   
 Skills

@@ -7,7 +7,7 @@ excerpt: 'Work on behaviour modelling in human-robot setting.'
 date: 2023-11-08
 venue: 'PLOS ONE'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285749'
+paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285749
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
